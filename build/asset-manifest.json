@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/css/main.6fa67d9f.chunk.css",
+    "main.js": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/main.7b1ea60b.chunk.js",
+    "main.js.map": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/main.7b1ea60b.chunk.js.map",
+    "runtime-main.js": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/runtime-main.73e02eeb.js",
+    "runtime-main.js.map": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/runtime-main.73e02eeb.js.map",
+    "static/js/2.0d2b7b75.chunk.js": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/2.0d2b7b75.chunk.js",
+    "static/js/2.0d2b7b75.chunk.js.map": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/2.0d2b7b75.chunk.js.map",
+    "index.html": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/index.html",
+    "precache-manifest.bce9edf049459e222321fda703371ea8.js": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/precache-manifest.bce9edf049459e222321fda703371ea8.js",
+    "service-worker.js": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/service-worker.js",
+    "static/css/main.6fa67d9f.chunk.css.map": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/css/main.6fa67d9f.chunk.css.map",
+    "static/js/2.0d2b7b75.chunk.js.LICENSE.txt": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/js/2.0d2b7b75.chunk.js.LICENSE.txt",
+    "static/media/bgg.jpg": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/media/bgg.17da586f.jpg",
+    "static/media/bgw.jpg": "/DarkDrshn/Captcha_Cracker_DemoSite_ML/static/media/bgw.eaf6ee7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73e02eeb.js",
+    "static/js/2.0d2b7b75.chunk.js",
+    "static/css/main.6fa67d9f.chunk.css",
+    "static/js/main.7b1ea60b.chunk.js"
+  ]
+}
